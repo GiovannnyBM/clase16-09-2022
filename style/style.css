@@ -12,7 +12,7 @@ body{
     padding: 10px;
     animation: animacion infinite 1s;
     margin-top: 40vh;
-    margin-left: 70vh;
+    margin-left: 45%;
 }
 .contenedor:hover{
     background-color: rgb(83, 215, 180);
@@ -24,7 +24,7 @@ body{
     padding: 10px;
     animation: animacion infinite 1s;
     margin-top: 40vh;
-    margin-left: 70vh;
+    margin-left: 45%;
 }
 
 @keyframes animacion {
